@@ -12,3 +12,4 @@ Design the architecture of your chosen application based on the high-availabilit
 4) load balancing : enables load distribution among the servers and thus helps to maximize output. should there be a server that is down, the load balancer can switch over to another server.
 5) Auto-scaling : auto scaling helps to scale in/out based on the resources needed at the point of time. this helps to ease incoming loads should the traffic be higher vise versa
 
+![image](https://github.com/hangytongy/Cloud_Computing_NTU_HR/blob/main/Module1/Assignment_1_11.jpg?raw=true)
