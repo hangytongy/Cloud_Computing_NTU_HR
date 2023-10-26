@@ -8,7 +8,7 @@ Choose one of the domains below:
 - Ride Hailing Application (e.g. Grab, Gojek)
 - Mobile Gaming Application (e.g. PUBG, MLBB)
 - Data Service Provider (e.g. Snowflake, Databricks)
-- <Mark>Video Streaming Provider (e.g. Netflix) </Mark>
+- **Video Streaming Provider (e.g. Netflix)** :gem:
 
 Work with your group to define your own business and your own recovery plan
 based on discussed threats that might be happen to your business
