@@ -33,3 +33,5 @@ Conclusion: In the case of Machine Learning, DynamoDB would be prefered as seaml
 
 [attached image below : ]
 
+![AWS RDS](https://github.com/hangytongy/Cloud_Computing_NTU_HR/blob/main/Module2/AWS%20RDS.png)
+
