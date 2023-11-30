@@ -25,8 +25,8 @@ Visual pipeline management: CodePipeline provides a visual representation of the
 
 To build the CI/CD Pipeline using AWS we need to use certain services to deploy our codes. From top down, we mainly need to tackle these few areas (in sequence) : Build, Test, Deploy
 
-To build and test: we use CodeCommit and CodeBuild to deploy our updated codes and test the code for its funtionality and usability
-To Deploy : we use CodeDeploy to deploy our code across the different required servers.
-To tie everything together, we use CodePipeline to automate the entire process from end to end. 
+- To build and test: we use CodeCommit and CodeBuild to deploy our updated codes and test the code for its funtionality and usability
+- To Deploy : we use CodeDeploy to deploy our code across the different required servers.
+- To tie everything together, we use CodePipeline to automate the entire process from end to end. 
 
 In summary, Agile Scrum, Blue-Green deployment, and AWS CodePipeline are powerful tools that can help product owners successfully manage and deploy e-commerce cloud system projects. Agile Scrum provides flexibility and adaptability to evolving requirements, Blue-Green deployment minimizes downtime and risk, and AWS CodePipeline automates the CI/CD process, ensuring seamless and reliable deployments.
